@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Steven J. Studio",
+        "url": "https://tonystevenj.com",
+        "copy": "A photography portfolio website by React and Spring Boot, with multiple image processing functionalities.",
+        "img": "/assets/images/stevenj-studio.png"
+    },
+    {
+        "name": "Prosperity Adviser",
+        "url": "https://github.tonystevenj.com/prosperity-adviser-fall2019",
+        "copy": "A business analysis tool (RESTful Single Page Application) for the catering industry, by Flask and Vue.js.",
+        "img": "/assets/images/prosperity-adviser.png"
+    }
+]
