@@ -10,5 +10,11 @@
         "title": "Graduate Research Assistant",
         "company": "Florida International University",
         "copy": "Held a research assistant role in a neuroscience research program using Machine Learning to figure out the relationship between the IQ of one brain and its 3D-scan data.;Implemented several machine learning algorithms including Logical Regression, Random Forest, deep learning, etc.;Applied grid search using Sklearn for Hyperparameter optimization.;Implemented deep learning in TensorFlow and designed a special loss function made the model converge ideally.;"
+    },
+    {
+        "time": "Jun 2017 - Nov 2018",
+        "title": "Full-stack Developer",
+        "company": "Hengxiya Mechanical Industry",
+        "copy": "Responsible for React UI and architecture. Built components library, set up Redux for global state management, and architected a highly maintainable structure.;Used React-Router to turn the application into Single Page Application.; Implemented RESTful-based web service calls to services.;Implemented application using Spring Boot Framework, Spring dependency injection, Spring MVC for REST API.;Used Java-J2EE patterns like Model View Controller (MVC), and some design patterns like Singleton, and Factory.;Developed REST Web APIs to provide services to front-end applications.;Used Hibernate to access data from the DB. Maintained and configured all the Hibernate POJOs using annotations needed for the DB.;Involved in designing database tables with UML diagrams, and in creating the database tables using MySQL.;Followed Scrum Agile methodology for the iterative development of the application."
     }
 ]
