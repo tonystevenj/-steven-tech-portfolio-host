@@ -1,6 +1,12 @@
 [
     {
-        "time": "Mar 2021 - Present",
+        "time": "Aug 2022 - Present",
+        "title": "Software Engineer II",
+        "company": "Microsoft",
+        "copy": ""
+    },
+    {
+        "time": "Mar 2021 - July 2022",
         "title": "Web Developer",
         "company": "Battle Medialab",
         "copy": "Worked full-stack wise to deliver different kinds of web applications to clients ranging from small start-ups to large corporations.;Analyzed weakness and incapacity of a current project, applied reasonable and moderate encapsulation, reduced complexity and made the project more modular.;Architected the whole PWA(Progressive Web Application) project,including data table design, REST API convention,and front-end side architecture (React.js).;Developed offline feature as well as auto-update functionality, utilized IndexedDB instead of cache storage, made large file cache became possible across browsers. (Safari only allows 50MB PWA cache storage at that moment - Oct. 2021);Collaborated with design and video teams to deliver cross-browser optimized and fully responsive UI.;Provided optimized algorithm solution for a project, improved 60% in running time in extreme circumstances.;Improved user interaction greatly on one of the projects, experienced 30% growth in users after three months of release.;"
